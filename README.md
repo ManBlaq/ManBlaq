@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManBlaq
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python, C programming and C++
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me 
 
